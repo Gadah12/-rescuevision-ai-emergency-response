@@ -164,11 +164,12 @@ This project is an **academic / research prototype** developed for learning and 
 
 ---
 
+
+
 ## 👩‍💻 Author
 
 **Ghada Alsulami**
-📌 GitHub: [@ghadaalsulami-coder](https://github.com/ghadaalsulami-coder)
-
+📌 Email: gabdullh84@gmail.com
 ---
 
 ## 📜 License
