@@ -136,16 +136,18 @@ Open `RescueVision AI.ipynb` in Jupyter Notebook or Google Colab and run all cel
 
 ---
 
+
 ## 📂 Project Structure
-rescuevision-ai-emergency-response/
-│
-├── RescueVision AI.ipynb # Main notebook: detection, analysis, report generation, dashboard
-├── requirements.txt # Project dependencies
-├── dashboard_full_view.png # Demo image — full dashboard view
-├── yolo_detection_result.png # Demo image — YOLO detection result
-├── dashboard_status.png # Demo image — system status panel
-├── vehicle_detection_demo.png # Demo image — multi-vehicle detection test
-└── README.md # Project documentation
+
+| File | Description |
+|---|---|
+| `RescueVision AI.ipynb` | Main notebook — detection, analysis, report generation, dashboard |
+| `requirements.txt` | Project dependencies |
+| `dashboard_full_view.png` | Demo image — full dashboard view |
+| `yolo_detection_result.png` | Demo image — YOLO detection result |
+| `dashboard_status.png` | Demo image — system status panel |
+| `vehicle_detection_demo.png` | Demo image — multi-vehicle detection test |
+| `README.md` | Project documentation |
 
 ---
 
